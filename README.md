@@ -1,6 +1,6 @@
   ● Overview
 
-RafasCrypt is a simple Python encryption tool that demonstrates custom character-based data encryption. It uses a user-provided key along with an internal fixed key to securely transform any text data.
+DataEncoder is a simple Python encryption tool that demonstrates custom character-based data encryption. It uses a user-provided key along with an internal fixed key to securely transform any text data.
 
 ✨ Features
 
