@@ -1,8 +1,8 @@
-  ● Overview
+#   ● Overview
 
 DataEncoder is a simple Python encryption tool that demonstrates custom character-based data encryption. It uses a user-provided key along with an internal fixed key to securely transform any text data.
 
-✨ Features
+# ✨ Features
 
 Symmetric encryption (same key used for encryption and decryption)
 
@@ -13,7 +13,7 @@ Includes base64 encoding for safe display or storage
 Easy to use with any text-based data
 
 
-🚀 How It Works
+# 🚀 How It Works
 
 The core logic lies in character code manipulation:
 
@@ -31,7 +31,7 @@ The result is a transformed character, wrapping around using % 256.
 Base64 is used to safely encode and decode the encrypted output for printing.
 
 
-✅ Requirements
+# ✅ Requirements
 
 This project requires:
 
